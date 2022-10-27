@@ -16,6 +16,7 @@ import { FooterComponent } from './components/footer/footer.component';
 import { HttpClientModule } from '@angular/common/http';
 import { HomeComponent } from './components/home/home.component';
 import { LogInComponent } from './components/log-in/log-in.component';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -37,7 +38,7 @@ import { LogInComponent } from './components/log-in/log-in.component';
     AppRoutingModule,
     NgCircleProgressModule.forRoot({}),
     HttpClientModule,
-    
+    FormsModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

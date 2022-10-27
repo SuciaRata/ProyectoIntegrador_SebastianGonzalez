@@ -11,7 +11,6 @@ import io.jsonwebtoken.MalformedJwtException;
 import io.jsonwebtoken.SignatureAlgorithm;
 import io.jsonwebtoken.SignatureException;
 import io.jsonwebtoken.UnsupportedJwtException;
-
 import java.util.Date;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -29,13 +28,14 @@ public class JwtProvider {
     
     @Value("$(jwt.secret)")
     private String secret;
-    @Value("$(jwt.expiration)")
-    private int expiration;
+
+    
     
     public String generateToken(Authentication authentication){
+        
         UsuarioPrincipal usuarioPrincipal = (UsuarioPrincipal) authentication.getPrincipal();
         return Jwts.builder().setSubject(usuarioPrincipal.getUsername())
-                .setIssuedAt(new Date()).setExpiration(new Date(new Date().getTime()+expiration*1000)).signWith(SignatureAlgorithm.HS512, secret).compact();
+                .setIssuedAt(new Date()).setExpiration(new Date(new Date().getTime()+(3600)*1000)).signWith(SignatureAlgorithm.HS512, secret).compact();
     }
     
     public String getNombreUsuarioFromToken(String token){
