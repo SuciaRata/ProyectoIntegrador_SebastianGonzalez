@@ -12,6 +12,7 @@ D:\Documents\Argentina Programa\Proyecto Final\ProyectoIntegrador_SebastianGonza
 D:\Documents\Argentina Programa\Proyecto Final\ProyectoIntegrador_SebastianGonzalez\ProyectoIntegrado_SebastianGonzalez\Backend\src\main\java\com\portfolio\seg\Repository\REducacion.java
 D:\Documents\Argentina Programa\Proyecto Final\ProyectoIntegrador_SebastianGonzalez\ProyectoIntegrado_SebastianGonzalez\Backend\src\main\java\com\portfolio\seg\Repository\RExperiencia.java
 D:\Documents\Argentina Programa\Proyecto Final\ProyectoIntegrador_SebastianGonzalez\ProyectoIntegrado_SebastianGonzalez\Backend\src\main\java\com\portfolio\seg\Repository\IPersonaRepository.java
+D:\Documents\Argentina Programa\Proyecto Final\ProyectoIntegrador_SebastianGonzalez\ProyectoIntegrado_SebastianGonzalez\Backend\src\main\java\com\portfolio\seg\Entity\hys.java
 D:\Documents\Argentina Programa\Proyecto Final\ProyectoIntegrador_SebastianGonzalez\ProyectoIntegrado_SebastianGonzalez\Backend\src\main\java\com\portfolio\seg\Service\SExperiencia.java
 D:\Documents\Argentina Programa\Proyecto Final\ProyectoIntegrador_SebastianGonzalez\ProyectoIntegrado_SebastianGonzalez\Backend\src\main\java\com\portfolio\seg\Security\entity\Rol.java
 D:\Documents\Argentina Programa\Proyecto Final\ProyectoIntegrador_SebastianGonzalez\ProyectoIntegrado_SebastianGonzalez\Backend\src\main\java\com\portfolio\seg\Dto\dtoExperiencia.java
@@ -20,15 +21,19 @@ D:\Documents\Argentina Programa\Proyecto Final\ProyectoIntegrador_SebastianGonza
 D:\Documents\Argentina Programa\Proyecto Final\ProyectoIntegrador_SebastianGonzalez\ProyectoIntegrado_SebastianGonzalez\Backend\src\main\java\com\portfolio\seg\Security\Repository\iUsuarioRepository.java
 D:\Documents\Argentina Programa\Proyecto Final\ProyectoIntegrador_SebastianGonzalez\ProyectoIntegrado_SebastianGonzalez\Backend\src\main\java\com\portfolio\seg\Security\entity\UsuarioPrincipal.java
 D:\Documents\Argentina Programa\Proyecto Final\ProyectoIntegrador_SebastianGonzalez\ProyectoIntegrado_SebastianGonzalez\Backend\src\main\java\com\portfolio\seg\Security\Service\UsuarioService.java
+D:\Documents\Argentina Programa\Proyecto Final\ProyectoIntegrador_SebastianGonzalez\ProyectoIntegrado_SebastianGonzalez\Backend\src\main\java\com\portfolio\seg\Controller\Chys.java
 D:\Documents\Argentina Programa\Proyecto Final\ProyectoIntegrador_SebastianGonzalez\ProyectoIntegrado_SebastianGonzalez\Backend\src\main\java\com\portfolio\seg\Security\Controller\Authcontroller.java
 D:\Documents\Argentina Programa\Proyecto Final\ProyectoIntegrador_SebastianGonzalez\ProyectoIntegrado_SebastianGonzalez\Backend\src\main\java\com\portfolio\seg\Security\jwt\JwtProvider.java
 D:\Documents\Argentina Programa\Proyecto Final\ProyectoIntegrador_SebastianGonzalez\ProyectoIntegrado_SebastianGonzalez\Backend\src\main\java\com\portfolio\seg\Service\ImpPersonaService.java
 D:\Documents\Argentina Programa\Proyecto Final\ProyectoIntegrador_SebastianGonzalez\ProyectoIntegrado_SebastianGonzalez\Backend\src\main\java\com\portfolio\seg\Security\jwt\JwtEntryPoint.java
+D:\Documents\Argentina Programa\Proyecto Final\ProyectoIntegrador_SebastianGonzalez\ProyectoIntegrado_SebastianGonzalez\Backend\src\main\java\com\portfolio\seg\Dto\dtoHys.java
+D:\Documents\Argentina Programa\Proyecto Final\ProyectoIntegrador_SebastianGonzalez\ProyectoIntegrado_SebastianGonzalez\Backend\src\main\java\com\portfolio\seg\Repository\Rhys.java
 D:\Documents\Argentina Programa\Proyecto Final\ProyectoIntegrador_SebastianGonzalez\ProyectoIntegrado_SebastianGonzalez\Backend\src\main\java\com\portfolio\seg\SegApplication.java
 D:\Documents\Argentina Programa\Proyecto Final\ProyectoIntegrador_SebastianGonzalez\ProyectoIntegrado_SebastianGonzalez\Backend\src\main\java\com\portfolio\seg\Entity\Persona.java
 D:\Documents\Argentina Programa\Proyecto Final\ProyectoIntegrador_SebastianGonzalez\ProyectoIntegrado_SebastianGonzalez\Backend\src\main\java\com\portfolio\seg\Interface\IPersonaService.java
 D:\Documents\Argentina Programa\Proyecto Final\ProyectoIntegrador_SebastianGonzalez\ProyectoIntegrado_SebastianGonzalez\Backend\src\main\java\com\portfolio\seg\Service\SEducacion.java
 D:\Documents\Argentina Programa\Proyecto Final\ProyectoIntegrador_SebastianGonzalez\ProyectoIntegrado_SebastianGonzalez\Backend\src\main\java\com\portfolio\seg\Security\Repository\iRolRepository.java
+D:\Documents\Argentina Programa\Proyecto Final\ProyectoIntegrador_SebastianGonzalez\ProyectoIntegrado_SebastianGonzalez\Backend\src\main\java\com\portfolio\seg\Service\Shys.java
 D:\Documents\Argentina Programa\Proyecto Final\ProyectoIntegrador_SebastianGonzalez\ProyectoIntegrado_SebastianGonzalez\Backend\src\main\java\com\portfolio\seg\Entity\Experiencia.java
 D:\Documents\Argentina Programa\Proyecto Final\ProyectoIntegrador_SebastianGonzalez\ProyectoIntegrado_SebastianGonzalez\Backend\src\main\java\com\portfolio\seg\Security\dto\NuevoUsuario.java
 D:\Documents\Argentina Programa\Proyecto Final\ProyectoIntegrador_SebastianGonzalez\ProyectoIntegrado_SebastianGonzalez\Backend\src\main\java\com\portfolio\seg\Security\dto\JwtDto.java
